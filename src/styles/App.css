@@ -1,0 +1,11 @@
+*,
+*::after,
+*::before {
+    padding: none;
+    margin: none;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:antiquewhite;
+}

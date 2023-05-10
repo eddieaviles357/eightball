@@ -1,0 +1,39 @@
+.Eightball {
+    margin: 0 auto;
+    border: 2px solid black;
+    border-radius: 50%;
+
+    width: 300px;
+    height: 300px;
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.Eightball-content {
+    border-radius: 50%;
+
+    width: 200px;
+    height: auto;
+}
+
+.Eightball-text--white {
+    color: white
+}
+
+.Eightball-textcontent {
+    margin: 0 auto;
+    text-align: center;
+}
+.Eightball-text--size {
+    font-size: 28px;
+}
+.Eightball-background--black {
+    background-color: black;
+}
+
+.Eightball-background--white {
+    background-color: white;
+}
