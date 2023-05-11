@@ -6,7 +6,6 @@ const App = () => {
     return (
         <>   
             <Eightball answers={ANSWERS}/>
-            <Resetbutton />
         </>
     )
 }
